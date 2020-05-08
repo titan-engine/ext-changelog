@@ -1,0 +1,19 @@
+{
+    "name": "ian/changelog",
+    "description": "Keep your users up to date with a changelog",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ian",
+            "email": "ian@pbbg.io"
+        }
+    ],
+    "require": {},
+    "extra": {
+        "titan": {
+            "name": "Changelog",
+            "namespace": "Extensions\\Ian\\Changelog"
+        }
+    }
+}
